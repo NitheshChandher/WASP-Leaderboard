@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    border: 1px solid black;
+    padding: 8px;
+  }
+
+/* Gold */
+tr:nth-child(3) {background: gold;}
+/* Silver */
+tr:nth-child(4) {background: #c0c0c0;}
+/* Bronze */
+tr:nth-child(5) {background: #cd7f32;}
+
+  th {
+    background-color: #1A8DAD;
+    color: white;
+  }
+
+  section {
+    min-height: 100vh; /* minus the height of the footer */
+}
+
