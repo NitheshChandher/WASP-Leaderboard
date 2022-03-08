@@ -1,36 +1,95 @@
 [
         {
-            "position": "xx",
-            "tracker": "A",
-            "pr": 0,
-            "re":0,
-            "fscore":40,
-            "year":2022
+            "tracker": "mlpLT",
+            "pr": 0.741,
+            "re":0.729,
+            "fscore":0.735,
+            "year":2021
   
         },
 
         {
-            "position": "xx",
-            "tracker": "B",
-            "pr": 0,
-            "re":0,
-            "fscore":100,
-            "year":2022
+            "tracker": "STARK_RGBD_LT",
+            "pr": 0.719,
+            "re":0.724,
+            "fscore":0.721,
+            "year":2021
         },
         {
-            "position": "xx",
-            "tracker": "B",
-            "pr": 0,
-            "re":0,
-            "fscore":50,
-            "year":2022
+            "tracker": "STARK_LT",
+            "pr": 0.721,
+            "re":0.725,
+            "fscore":0.723,
+            "year":2021
         },
         {
-            "position": "xx",
-            "tracker": "B",
-            "pr": 0,
-            "re":0,
-            "fscore":0,
-            "year":2022
+            "tracker": "SLOT",
+            "pr": 0.727 ,
+            "re":0.711,
+            "fscore":0.719,
+            "year":2021
+        },
+        {
+            "tracker": "keep_track_lt",
+            "pr": 0.725,
+            "re":0.700,
+            "fscore":0.712,
+            "year":2021
+        },
+        {
+            "tracker": "SuperD_MU",
+            "pr": 0.738,
+            "re":0.680,
+            "fscore":0.708,
+            "year":2021
+        },
+        {
+            "tracker": "RincTrack",
+            "pr": 0.717,
+            "re":0.696,
+            "fscore":0.707,
+            "year":2021
+        },
+        {
+            "tracker": "LT_DSE",
+            "pr": 0.715,
+            "re":0.677,
+            "fscore":0.695,
+            "year":2019
+        },
+        {
+            "tracker": "LTMU_B",
+            "pr": 0.698,
+            "re":0.680,
+            "fscore":0.689,
+            "year":2020
+        },
+        {
+            "tracker": "SuperDiMP",
+            "pr": 0.675,
+            "re":0.660,
+            "fscore":0.667,
+            "year":2021
+        },
+        {
+            "tracker": "SiamRCNN",
+            "pr": 0.654,
+            "re":0.673,
+            "fscore":0.664,
+            "year":2021
+        },
+        {
+            "tracker": "SION_LT",
+            "pr": 0.640,
+            "re":0.456,
+            "fscore":0.533,
+            "year":2021
+        },
+        {
+            "tracker": "TDIOT",
+            "pr": 0.496,
+            "re":0.478,
+            "fscore":0.487,
+            "year":2021
         }
 ]
